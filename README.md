@@ -1,2 +1,2 @@
 # Minor-Project3
-Digit-Clock
+Digital-Clock
